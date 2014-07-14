@@ -4,7 +4,7 @@ forge "http://forge.puppetlabs.com"
 mod "puppetlabs/ntp"
 
 
-mod "sudo"
+mod "sudo",
   :git => 'git@github.com:saz/puppet-sudo.git',
   :ref => 'afc01'
 
