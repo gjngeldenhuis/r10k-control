@@ -5,7 +5,7 @@ mod "puppetlabs/ntp"
 
 
 mod "sudo"
-  :git => 'git@github.com:saz/puppet-sudo.git'
+  :git => 'git@github.com:saz/puppet-sudo.git',
   :ref => 'afc01'
 
 #mod "property_list_key",
