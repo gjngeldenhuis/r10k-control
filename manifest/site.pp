@@ -7,4 +7,5 @@ filebucket { 'main':
 File { backup => 'main' }
 
 node default {
+  include profiles::motd
 }
