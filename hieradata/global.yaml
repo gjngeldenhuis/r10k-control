@@ -1,3 +1,4 @@
 ---
 profiles::var01: 'value for variable one'
 profiles::var02: 'value for variable two'
+profiles::test01: 'value from global'
