@@ -10,4 +10,4 @@ mod "sudo",
 
 mod "profiles",
   :git => 'https://github.com/gjngeldenhuis/r10k-profiles.git',
-  :ref => '7742f'
+  :ref => 'master'
