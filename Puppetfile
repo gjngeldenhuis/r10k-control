@@ -2,6 +2,7 @@ forge "http://forge.puppetlabs.com"
 
 # Modules from the Puppet Forge
 mod "puppetlabs/ntp"
+mod "zack/r10k"
 
 
 mod "sudo",
