@@ -11,3 +11,6 @@ mod "sudo",
 mod "profiles",
   :git => 'https://github.com/gjngeldenhuis/r10k-profiles.git',
   :ref => '7742f'
+
+mod "puppet_master",
+  :git => 'git@github.com:gjngeldenhuis/puppet_master.git'
